@@ -222,6 +222,7 @@ e4s-develop-build:
 #########################################
 # Build tests for different build-systems
 #########################################
+
 .build_systems:
   variables:
     SPACK_CI_STACK_NAME: build_systems
